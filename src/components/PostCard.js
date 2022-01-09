@@ -5,7 +5,6 @@ import {
   CardContent,
   CardMedia,
   Grid,
-  Hidden,
   Typography,
 } from "@mui/material";
 import { makeStyles } from "@mui/styles";
